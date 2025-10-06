@@ -1,0 +1,32 @@
+# ignore env files (root and any nested .env)
+.env
+**/.env
+src/.env
+
+# python cache + compiled files
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtualenvs, pip cache, pytest cache
+.venv/
+venv/
+.envrc
+pip-wheel-metadata/
+.pytest_cache/
+
+# VCS and editor files
+.git
+.gitignore
+.vscode/
+.idea/
+
+# build artifacts, node modules etc (if present)
+dist/
+build/
+node_modules/
+
+# Dockerfile shouldn't be ignored — but any local secrets
+local_secret.*
