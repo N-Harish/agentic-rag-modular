@@ -101,6 +101,12 @@ This starts the pipeline that accepts a user query and uses the router LLM to de
 
 ---
 
+## Walkthrough Video
+
+https://github.com/user-attachments/assets/41af9ba9-7538-4a93-84cb-9acff29c64df
+
+---
+
 ## Architecture (short)
 
 ```
