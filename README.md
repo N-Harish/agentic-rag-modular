@@ -101,6 +101,12 @@ This starts the pipeline that accepts a user query and uses the router LLM to de
 
 ---
 
+## App Screenshot
+
+<img width="1007" height="873" alt="image" src="https://github.com/user-attachments/assets/40b02fd4-5bfa-423a-99c2-69a809909da9" />
+
+---
+
 ## Walkthrough Video
 
 https://github.com/user-attachments/assets/41af9ba9-7538-4a93-84cb-9acff29c64df
