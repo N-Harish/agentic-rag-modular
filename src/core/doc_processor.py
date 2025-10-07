@@ -25,10 +25,3 @@ class DocProcessor:
         for doc in loader.lazy_load():
             docs.append(doc)
         return docs
-
-
-# doc_proc = DocProcessor()
-# docs = doc_proc.process_pdf("../Introduction to LangChain.pdf")
-# print(len(docs))
-# for doc in docs:
-#     print(doc.page_content)

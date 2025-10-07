@@ -82,7 +82,7 @@ print(client.get_collections())
 
 If this returns collections (or an empty list), your connection is good.
 
-4. Ingest a PDF (example script provided in `src/core/doc_processor.py`):
+4. Ingest a PDF (example script provided in `src/core/chunk_and_save_doc.py`):
 
 * Set your `UNSTRUCTERED_API_KEY` in `.env`
 * ```chunk_and_save_doc.py``` has function which will:
